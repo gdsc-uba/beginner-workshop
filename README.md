@@ -1,2 +1,2 @@
 # beginner-workshop
-Simple beginner repo
+Simple json file with a giveaway list.
