@@ -16,5 +16,11 @@
     "account":"23767xxxxxx",
     "amount(CFA)":"15000k",
     "reason": "Legendary dev"
+  },
+  {
+    "name":"N. Christ",
+    "account":"23769xxxxxx",
+    "amount(CFA)":"2M",
+    "reason": "I'm a GoldenBrain" 
   }
 ]
